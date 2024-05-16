@@ -1,16 +1,5 @@
 # to_do_app_ahmed
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a basic TO_DO daily app developed through Flutter.
+Here is the Attached Screenshots 
+ ![Screenshot_2024-05-16-20-26-16-58_beabc981b72e63edab06af46bb15ddf3](https://github.com/Ahmedgito/To-Do-App/assets/106527011/a265b1cd-a69e-4528-92b1-9cdf647a5269)
